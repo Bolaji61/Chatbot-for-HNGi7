@@ -1,0 +1,7 @@
+The Chatbot will be able to perform the following tasks:
+- Send a welcome message to a visitor on the site, e.g "Hey there, Welcome to HNG Internship 7.0, what would you like to do?"
+- Give Options on what the user can do, options like "Make enquires, Register as an Intern, Become a mentor, Contact us"
+- The option that the chatbot will be focused on is  "Register as an Intern", the chatbot will first ask what track I will like to join
+- ...then it will ask if I am a novice, a beginner, a mid-level or a senior-level dev in the chosen track.
+- Next it will tell recommend materials/courses that I should read before the internship begins based on the track I chose and my level of experience. (This is the major ML part).
+- Lastly, it will send me a direct link to where I will register as an intern.
