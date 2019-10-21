@@ -1,0 +1,19 @@
+categories:
+- scenarios
+conversations:
+- - I want to make enquires
+  - Alright, about what exactly?
+- - How long does the Internship last for?
+  - It lasts for 3 months
+- - What do I need to complete it?
+  - You will need a laptop, some free time and a determination to complete it
+- - What if I don't have a laptop?
+  - You will need to get one, you could also borrow.
+- - Can I join if I have no knowlegde of programming
+  - Yes, you can. HNG is designed for beginners
+- - What track can I join?
+  - You can join Front-end web development, back-end web development, Design, Digital Marketing, Machine Learning, Mobile App development
+- - When will the Internship begin?
+  - It will start in September 2020.
+- - What do I need to learn before it begins?
+  - You should start reading on resources related to the track you are interested in
