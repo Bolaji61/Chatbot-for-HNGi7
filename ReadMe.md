@@ -9,7 +9,7 @@
 # HNGi7 Chatbot
 
 ## Getting Started
-This is an Interactive AI chatbot that responds to your statements and questions related to HNGi7 Internship. You can visit the hosted HNGi7 website here <hngi7.hng.tech/>
+This is an Interactive AI chatbot that responds to your statements and questions related to HNGi7 Internship. You can visit the hosted HNGi7 website here @ hngi7.hng.tech
 ### Prerequsites
 You will need to install the following libraries
 
@@ -25,3 +25,5 @@ You will need to install the following libraries
 ## How to Run this project
 After cloning the repo and installing the necessary libraries, run ``` python3 app.py ``` in your terminal, the chatbot project will start up.
 
+
+## Built with Visual Studio Code
