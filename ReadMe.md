@@ -22,3 +22,6 @@ You will need to install the following libraries
 - gunicorn
 
 
+## How to Run this project
+After cloning the repo and installing the necessary libraries, run ``` python3 app.py ``` in your terminal, the chatbot project will start up.
+
